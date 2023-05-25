@@ -1,4 +1,3 @@
-Login Form Project
 This project is a simple and elegant login form developed by me. The login form provides a seamless and intuitive user experience, allowing users to securely log into their accounts.
 
 Features
